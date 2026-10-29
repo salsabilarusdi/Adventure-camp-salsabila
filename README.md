@@ -123,11 +123,11 @@ Diskon 10% = Rp49.500
 
 ![pict1.jpeg](pict1.jpeg)
 
-![screnshoot2.jpeg](screenshoot2.jpeg)
+![pict2.jpeg](pict1.jpeg)
 
-![screnshoot3.jpeg](screenshoot3.jpeg)
+![pict3.jpeg](pict1.jpeg)
 
-![screnshoot4.jpeg](screenshoot4.jpeg)
+![pict4.jpeg](pict1.jpeg)
 
 ---
 
