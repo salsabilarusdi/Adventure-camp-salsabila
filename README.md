@@ -121,7 +121,7 @@ Diskon 10% = Rp49.500
 
 ### 10. Screenshot Hasil Program
 
-![screnshoot1.jpeg](screenshoot1.jpeg)
+![pict1.jpeg](pict1.jpeg)
 
 ![screnshoot2.jpeg](screenshoot2.jpeg)
 
